@@ -1,8 +1,8 @@
 # WoofWare.LiangHyphenation
 
 [![NuGet version](https://img.shields.io/nuget/v/WoofWare.LiangHyphenation.svg?style=flat-square)](https://www.nuget.org/packages/WoofWare.LiangHyphenation)
-[![GitHub Actions status](https://github.com/Smaug123/WoofWare.LiangHyphenation/actions/workflows/dotnet.yaml/badge.svg)](https://github.com/Smaug123/WoofWare.LiangHyphenation/actions?query=branch%3Amain)
-[![License file](https://img.shields.io/github/license/Smaug123/WoofWare.LiangHyphenation)](./LICENSE.md)
+[![GitHub Actions status](https://github.com/WoofWare/WoofWare.LiangHyphenation/actions/workflows/dotnet.yaml/badge.svg)](https://github.com/WoofWare/WoofWare.LiangHyphenation/actions?query=branch%3Amain)
+[![License file](https://img.shields.io/github/license/WoofWare/WoofWare.LiangHyphenation)](./LICENSE.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logos/dark.svg">
